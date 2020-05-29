@@ -1,1 +1,5 @@
 /*  https://kimulaco.com/:splat  301!
+/404  https://kimulaco.com/404  301!
+/post/*  https://kimulaco.com/post/:splat  301!
+/tag/*  https://kimulaco.com/tag/:splat  301!
+/about/*  https://kimulaco.com/about/:splat  301!
